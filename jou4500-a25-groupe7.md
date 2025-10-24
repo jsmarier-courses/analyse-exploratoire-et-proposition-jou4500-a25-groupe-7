@@ -1,6 +1,6 @@
-**Date**<br>
-**Cote et nom du cours**<br>
-**Prénom et nom de l'étudiant(e)**<br>
+**7 novembre 2025**<br>
+**CMN4500/JOU4500 Journalisme numérique II**<br>
+**Alice Rosange Mbela Ebele, Catherine Brideau, Mackenzie Moffatt**<br>
 **Présenté à Jean-Sébastien Marier**<br>
 
 # Analyse exploratoire de données (AED) et proposition
