@@ -5,13 +5,9 @@
 
 # Analyse exploratoire de données (AED) et proposition
 
-Utilisez un croisillon (`#`) pour créer un intertitre de niveau 1 comme celui-ci. Test
-
 ## Avant-propos
 
-Allo Pour ce travail, vous devez extraire des données d’un site Internet ou d’une base de données. Vous devez ensuite nettoyer et analyser votre jeu de données, trouver une histoire potentielle et créer une visualisation. Votre travail doit clairement expliquer votre processus. Vous devez écrire environ 1500 à 2000 mots et inclure des captures d’écran montrant les différentes étapes de votre analyse. Votre travail doit être rédigé avec le format Markdown et être publié sur GitHub.
-
-J'assigne différentes versions de ce projet à mes étudiants en journalisme numérique et en « data storytelling » depuis déjà quelques années. La structure générale de ce travail est basée sur celle du [*Guide du datajournalisme*](http://jplusplus.github.io/guide-du-datajournalisme/index.html). La présente version est également inspirée du programme [Key Capabilities in Data Science](https://extendedlearning.ubc.ca/programs/key-capabilities-data-science) offert par l'Université de la Colombie-Britannique (UBC).
+Ce projet s’appuie sur le jeu de données « Questionnaire détaillé du recensement de 2021 – Données par quartier » publié par la Ville d’Ottawa. En analysant ces données, l’objectif est d’explorer (...) des quartiers d’Ottawa afin de mieux comprendre les dynamiques locales. Cette analyse exploratoire servira à analyser les données en profondeur pour le projet final.
 
 **Voici quelques ressources utiles pour ce travail :**
 
