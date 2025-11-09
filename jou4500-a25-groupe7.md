@@ -20,7 +20,7 @@ Pour créer une liste non ordonnée, il suffit de mettre une étoile (`*`) devan
 
 ## 1. Introduction
 
-Insérez votre texte ici.
+Le projet s’appuie sur les données du recensement 2021 pour Ottawa, compilées par Statistique Canada. Elles incluent des variables clés telles que l’âge, le revenu, les langues, le statut matrimonial, le logement et l’emploi. Les données ont été nettoyées et structurées afin de permettre une analyse comparative entre les quartiers riches et défavorisés d’Ottawa. Les différentes sections de ce travail sont les suivantes: l’obtention des données suivi par la compréhension de celles-ci, une analyse VIMA, le nettoyage des données par l’entremise des outils de Google Feuille de Calcul, le logiciel OpenRefine, etc., Analyse exploratoire des données (AED) et finalement la possibilité d’un récit potentiel et/ou un angle pour la suite du travail.
 
 ## 2. Obtenir les données
 
