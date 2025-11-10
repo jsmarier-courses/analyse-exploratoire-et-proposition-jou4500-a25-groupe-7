@@ -79,9 +79,7 @@ C'est aussi comme ça qu'on crée une liste ordonnée. Il suffit de mettre `1.` 
 
 ### 3.1. Analyse VIMA
 
-Utilisez trois croisillons (`###`) pour créer un intertitre de niveau 3 comme celui-ci. Je vous prie de suivre ce modèle en ce qui a trait aux intertitres de niveaux 1 et 2. Toutefois, je vous laisse le loisir d'utiliser les intertitres de niveau 3 comme bon vous semble.
-
-Insérez votre texte ici.
+La colonne C, soit celle du quartier Orléans Est-Cumberland, ne présente aucune donnée invalides. À première vue, pour donner un exemple, le Total - Répartition (%) de la population par grands groupes d'âge - Données-échantillon (25 %), équivaut à 100%. Chaque colonne vis à vis cette rangée présente la même chose. Ensuite, aucune des rangées dans la colonne C ne comporte des données vides (à part, pour les gens âgés de 100 et plus pour ce quartier en particulier, mais qui ne me semble pas impossible) ou bien la rangée 29 à 32 de cette colonne (soit le pourcentage divisé du Total - Répartition (%) de la population par grands groupes d'âge - Données-échantillon (25 %)), qui est bel et bien divisé pour avoir un total de 100%. Il n’y a pas de valeurs manquantes dans cette colonne. Finalement, je ne vois pas de données aberrantes. 
 
 Appuyez vos affirmations en citant les sources appropriées. Veuillez suivre les [normes APA en matière d'attribution dans le corps du texte](https://apastyle.apa.org/style-grammar-guidelines/citations).
 
