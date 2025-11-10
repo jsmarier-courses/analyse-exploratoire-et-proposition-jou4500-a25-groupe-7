@@ -1,7 +1,1 @@
-## Template for the Exploratory Data Analysis (EDA) & Pitch
-
-Here are the files for the term project of courses JOU4100 Digital Journalism II and JOU4500 Journalisme numérique II at the University of Ottawa, and MPAD2003 Introductory Data Storytelling offered at Carleton University.
-
-## Modèle pour le Analyse exploratoire de données (AED) et proposition
-
-Vous trouverez ici les fichiers pour le projet de session des cours JOU4100 Digital Journalism II et JOU4500 Journalisme numérique II à l'Université d'Ottawa, et du cours MPAD2003 Introductory Data Storytelling offert à l'Université Carleton.
+Cette analyse s’appuie sur le jeu de données «Questionnaire détaillé du recensement de 2021- Données par quartier» qui a été publié par la Ville d’Ottawa. Les données, qui sont compilées par Statistiques Canada,incluent des variables sur l'âge, les revenus, les langues, les logements et les emplois. À la suite des importations et du nettoyage de données (enlever les espaces,les doublons,corriger l'orthographe) dans Google Sheets et OpenRefine, nous avons réussi à comparer des revenus moyens entre des quartiers riches et ceux défavorisés. Au final, l’analyse a soulevé un écart d’approximativement 24 % entre les groupes. Ce résultat démontre alors une forte divergence socio-économique entre les différentes zones d’Ottawa.
