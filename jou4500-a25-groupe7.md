@@ -124,11 +124,15 @@ Calculs sommaires: différence absolue et relative.
 
 ## 4. Récit potentiel
 
-Insérez votre texte ici.
+Des quartiers tels que Vanier ou Rideau-Vanier, moins privilégiés à Ottawa, se démarquent de Barrhaven ou Kanata, qui sont plus aisés, principalement en raison de disparités socio-économiques relatives aux revenus, au niveau d’instruction, à l’accès à l’emploi et à la qualité des habitations. Les foyers résidant dans des régions défavorisées affichent généralement un revenu médian inférieur, un taux de chômage plus important et une prédominance de locataires sur les propriétaires, entravant ainsi leur stabilité financière. En revanche, les zones plus riches jouissent d'un meilleur accès aux services, à des établissements scolaires mieux équipés, à des carrières qualifiées et à des infrastructures contemporaines, ce qui attire des habitants avec un revenu supérieur et maintient un cycle vertueux de prospérité.
+
+Par conséquent, les différences constatées entre ces zones peuvent être attribuées à une conjonction de facteurs structurels - tels que l'aménagement urbain, la présence de logements abordables et les stratégies d'investissement municipales - qui exacerbent les disparités économiques et sociales au sein de la cité. Des sources pertinentes seraient: « Plan d’améliorations communautaires pour le logement abordable», « Statistiques trimestrielles sur les loyers, premier trimestre de 2019 au premier trimestre de 2025 », etc. Nous voulons parler avec des habitants de régions opposées (quartiers plus pauvres versus quartiers plus riches). 
+
 
 ## 5. Conclusion
 
-Insérez votre texte ici.
+Lors de ce travail, l’une des choses qui a été plus difficile serait le nettoyage des données. Dans ce sens, le doute qu’il y eut en se demandant si les données avaient bel et bien toutes étés nettoyées. D’un autre côté, lors de la création du tableau croisé dynamique, c’était un défi de choisir qu’elles données utilisés vis qu’il y en a beaucoup. Finalement, l’utilisation du programme Studio Visual Code a été très difficile à comprendre pour toute l’équipe. Ce qui a été gratifiant, par contre, c’est pouvoir utiliser ces outils appris en classe dans le contexte d’un travail. On a toutes réalisé qu’on savait moins qu’on pensait, surtout vu que c’est un gros jeu de données. Il a fallu revenir sur les concepts clés appris en classe et dans les modules asynchrones pour comprendre. On aurait voulu étudier les concepts et la matière davantage afin d’être moins perdus, d’avoir plus des connaissances pratiques.
+
 
 ## 6. Références
 
